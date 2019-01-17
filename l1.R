@@ -16,3 +16,4 @@ install.packages("topicmodels")
 install.packages("tm")
 
 
+x=data_clean
